@@ -6,7 +6,8 @@
     background-color: lightgray;
 }
 
-.row{
+.row,
+.flex-container{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;

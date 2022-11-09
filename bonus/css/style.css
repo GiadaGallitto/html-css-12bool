@@ -19,3 +19,16 @@
 .bg-red{
     background-color: red;
 }
+
+.bg-darkgrey{
+    background-color: #525156;
+}
+
+.bg-lightgrey{
+    background-color: #7d7d7d;
+}
+
+div.square{
+    flex: 50%;
+    height: 100%;
+}
