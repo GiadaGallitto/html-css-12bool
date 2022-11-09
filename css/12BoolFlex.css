@@ -10,16 +10,6 @@
 
 [class*="col-"] {
     flex: 0 0 auto;
-    background-color: #006cfa;
-    color: white;
-    border: 1px solid white;
-    padding: 1rem;
-    text-align: center;
-}
-
-[class*="nested-"] {
-    background-color: #01e165;
-    border: 1px solid #006cfa;
 }
 
 /* Flex cols */
