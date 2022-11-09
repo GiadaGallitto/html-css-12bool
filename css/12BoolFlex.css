@@ -1,6 +1,5 @@
 .container{
-    max-width: 1500px;
-    margin: 0 auto;
+    width: 100%;
 }
 
 .row{
@@ -23,6 +22,7 @@
     border: 1px solid #006cfa;
 }
 
+/* Flex cols */
 .col-1{
     flex-basis: calc((100% / 12) * 1);
     max-width: calc((100% / 12) * 1);
