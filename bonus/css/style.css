@@ -4,6 +4,17 @@
     box-sizing: border-box;
 }
 
+body{
+    background-image: url(../img/pixel-city.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+
+.container{
+    width: 1000px;
+    margin: 0 auto;
+}
+
 .row>div{
     height: 2.5rem;
 }
@@ -21,11 +32,11 @@
 }
 
 .bg-darkgrey{
-    background-color: #3c3b3f;
+    background-color: #272729;
 }
 
 .bg-lightgrey{
-    background-color: #7d7d7d;
+    background-color: #565656;
 }
 
 .bg-white{
